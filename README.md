@@ -39,7 +39,8 @@ Descubriendo el poder del análisis de datos mientras construyo una carrera alin
   </a>
  <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
   </a>
-
+<img decoding="async" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="tableau"/>
+  </a>
 </div>
 
 <!--
