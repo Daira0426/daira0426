@@ -13,7 +13,10 @@
 
 <div id="badges" align="center">
 <img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=daira0426.daira0426&color=00cf00" alt=""/>
+---
+ <div id="header" align="left">
 
+### :woman_technologist: Sobre mí :
 <!--
 **Daira0426/daira0426** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
