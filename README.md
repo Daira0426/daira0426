@@ -20,13 +20,13 @@
 
 Descubriendo el poder del análisis de datos mientras construyo una carrera alineada con mis intereses y habilidades técnicas. <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
+* 💻 Colaboro en marketing digital para una academia de Tennis 🎾
+
 * 🔄 En transición hacia el análisis de datos, combinando mi experiencia en ingeniería y marketing con herramientas como Python y Tableau para impulsar decisiones estratégicas. 🚀📊
+  
+* 💡 Me motiva encontrar soluciones analíticas que optimicen procesos y ahorren tiempo.
 
-* :seedling: Estoy estudiando :blue_book: y practicando :computer: lenguaje SQL y Python, sin dejar de lado las increíbles herramientas de Microsoft.
-
-* :heartbeat: Me encanta descubrir nuevas formas de automatizar mi trabajo
-
-* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Noelia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/noelianav/)
+* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Noelia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daira-chala-castillo/)
 
 <!--
 **Daira0426/daira0426** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
