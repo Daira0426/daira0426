@@ -17,6 +17,8 @@
  <div id="header" align="left">
 
 ### :woman_technologist: Sobre mí :
+
+Descubriendo el poder del análisis de datos mientras construyo una carrera alineada con mis intereses y habilidades técnicas. <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <!--
 **Daira0426/daira0426** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
