@@ -26,7 +26,7 @@ Descubriendo el poder del análisis de datos mientras construyo una carrera alin
   
 * 💡 Me motiva encontrar soluciones analíticas que optimicen procesos y ahorren tiempo.
 
-* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Noelia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daira-chala-castillo/)
+* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Daira-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daira-chala-castillo/)
 
 <!--
 **Daira0426/daira0426** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
