@@ -28,6 +28,20 @@ Descubriendo el poder del análisis de datos mientras construyo una carrera alin
 
 * 👉 ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Daira-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daira-chala-castillo/)
 
+---
+
+### :hammer_and_wrench: Lenguajes y herramientas :
+
+<div id="header" align="left">
+    <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+  </a>
+    <img decoding="async" src="https://img.shields.io/badge/MySQL-6DB33F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
+  </a>
+ <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
+  </a>
+
+</div>
+
 <!--
 **Daira0426/daira0426** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
