@@ -27,10 +27,10 @@ Descubriendo el poder del análisis de datos mientras construyo una carrera alin
 
 ---
 ## 📂 Proyectos Destacados
-- 🎮 [Análisis de ventas de videojuegos (Ice Store)]([link-repo](https://github.com/Daira0426/Anlisis-de-ventas-y-exito-de-videojuegos---Ice-Store))
-- 📊 [Test A/B en tienda online]([link-repo](https://github.com/Daira0426/Test-A-B-en-tienda-online))
-- 🛒 [Optimización de marketing Showz]([link-repo](https://github.com/Daira0426/Optimizacion-de-marketing-Showz))
-- 🎥 [Dashboard de tendencias YouTube]([link-repo](https://github.com/Daira0426/Videos-publicitarios-en-Sterling-Draper.))
+- 🎮 [Análisis de ventas de videojuegos (Ice Store)](https://github.com/Daira0426/Anlisis-de-ventas-y-exito-de-videojuegos---Ice-Store)
+- 📊 [Test A/B en tienda online](https://github.com/Daira0426/Test-A-B-en-tienda-online)
+- 🛒 [Optimización de marketing Showz](https://github.com/Daira0426/Optimizacion-de-marketing-Showz)
+- 🎥 [Dashboard de tendencias YouTube](https://github.com/Daira0426/Videos-publicitarios-en-Sterling-Draper.)
 
 ### :hammer_and_wrench: Lenguajes y herramientas :
 
