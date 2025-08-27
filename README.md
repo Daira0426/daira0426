@@ -1,9 +1,3 @@
-<div id="header" align="center">
-  <img decoding="async" src="https://github.com/Daira0426/daira0426/blob/58f072f1c590b65e8f84b7bee609b0edf7a4b203/Blue%20Illustration%20Personal%20LinkedIn%20Banner.png" width="800"/>
-</div>
-
-
-
 ## <h1>
   Hola soy Daira. ¡Encantada de conocerte!
   <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -26,7 +20,9 @@ Descubriendo el poder del análisis de datos mientras construyo una carrera alin
   
 * 💡 Me motiva encontrar soluciones analíticas que optimicen procesos y ahorren tiempo.
 
-* 👉 ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Daira-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daira-chala-castillo/)
+* 👉 ¿Quieres contactar conmigo? <div id="header" align="center">
+  <img decoding="async" src="https://github.com/Daira0426/daira0426/blob/58f072f1c590b65e8f84b7bee609b0edf7a4b203/Blue%20Illustration%20Personal%20LinkedIn%20Banner.png" width="800"/>
+</div>
 
 ---
 
