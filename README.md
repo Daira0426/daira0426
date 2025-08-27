@@ -26,6 +26,11 @@ Descubriendo el poder del análisis de datos mientras construyo una carrera alin
 * 👉 ¿Quieres contactar conmigo? [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daira-chala-castillo/) 
 
 ---
+## 📂 Proyectos Destacados
+- 🎮 [Análisis de ventas de videojuegos (Ice Store)]([link-repo](https://github.com/Daira0426/Anlisis-de-ventas-y-exito-de-videojuegos---Ice-Store))
+- 📊 [Test A/B en tienda online]([link-repo](https://github.com/Daira0426/Test-A-B-en-tienda-online))
+- 🛒 [Optimización de marketing Showz]([link-repo](https://github.com/Daira0426/Optimizacion-de-marketing-Showz))
+- 🎥 [Dashboard de tendencias YouTube]([link-repo](https://github.com/Daira0426/Videos-publicitarios-en-Sterling-Draper.))
 
 ### :hammer_and_wrench: Lenguajes y herramientas :
 
