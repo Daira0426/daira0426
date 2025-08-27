@@ -1,5 +1,7 @@
 <div id="header" align="center">
-  <img decoding="async" src="https://github.com/Daira0426/daira0426/blob/58f072f1c590b65e8f84b7bee609b0edf7a4b203/Blue%20Illustration%20Personal%20LinkedIn%20Banner.png" width="800"/>
+  <img decoding="async" src="https://raw.githubusercontent.com/Daira0426/Daira0426/main/DATA%20TRANSFORMATION.png" width="800"/>
+</div>
+
 
 ## <h1>
   Hola soy Daira. ¡Encantada de conocerte!
