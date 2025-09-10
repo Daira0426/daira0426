@@ -32,7 +32,7 @@ Discovering the power of data analysis while building a career aligned with my i
 - 🛒 [Marketing Optimization – Showz](https://github.com/Daira0426/Optimizacion-de-marketing-Showz)
 - 🎥 [YouTube Trends Dashboard](https://github.com/Daira0426/Videos-publicitarios-en-Sterling-Draper.)
 
-### :hammer_and_wrench: Lenguajes y herramientas :
+### :hammer_and_wrench: Languages and Tools :
 
 <div id="header" align="left">
     <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
