@@ -4,7 +4,7 @@
 
 
 ## <h1>
-  Hola soy Daira. ¡Encantada de conocerte!
+  Hello, I'm Daira. Nice to meet you!
   <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1> 
 
@@ -13,24 +13,24 @@
 ---
  <div id="header" align="left">
 
-### :woman_technologist: Sobre mí :
+### :woman_technologist: 👩‍💻 About me: :
 
-Descubriendo el poder del análisis de datos mientras construyo una carrera alineada con mis intereses y habilidades técnicas. <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+Discovering the power of data analysis while building a career aligned with my interests and technical skills. <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-* 💻 Colaboro en marketing digital para una academia de Tennis 🎾
+* 💻 I collaborate in digital marketing for a tennis academy 🎾
 
-* 🔄 En transición hacia el análisis de datos, combinando mi experiencia en ingeniería y marketing con herramientas como Python y Tableau para impulsar decisiones estratégicas. 🚀📊
+* 🔄 Currently transitioning into data analytics, combining my background in engineering and marketing with tools like Python and Tableau to drive strategic decision-making.. 🚀📊
   
-* 💡 Me motiva encontrar soluciones analíticas que optimicen procesos y ahorren tiempo.
+* 💡 I'm motivated by finding analytical solutions that optimize processes and save time.
 
-* 👉 ¿Quieres contactar conmigo? [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daira-chala-castillo/) 
+* 👉 Want to connect with me? [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daira-chala-castillo/) 
 
 ---
-## 📂 Proyectos Destacados
-- 🎮 [Análisis de ventas de videojuegos (Ice Store)](https://github.com/Daira0426/Anlisis-de-ventas-y-exito-de-videojuegos---Ice-Store)
-- 📊 [Test A/B en tienda online](https://github.com/Daira0426/Test-A-B-en-tienda-online)
-- 🛒 [Optimización de marketing Showz](https://github.com/Daira0426/Optimizacion-de-marketing-Showz)
-- 🎥 [Dashboard de tendencias YouTube](https://github.com/Daira0426/Videos-publicitarios-en-Sterling-Draper.)
+## 📂 Featured Projects
+- 🎮 [Video Game Sales Analysis (Ice Store)](https://github.com/Daira0426/Anlisis-de-ventas-y-exito-de-videojuegos---Ice-Store)
+- 📊 [A/B Test for Online Store](https://github.com/Daira0426/Test-A-B-en-tienda-online)
+- 🛒 [Marketing Optimization – Showz](https://github.com/Daira0426/Optimizacion-de-marketing-Showz)
+- 🎥 [YouTube Trends Dashboard](https://github.com/Daira0426/Videos-publicitarios-en-Sterling-Draper.)
 
 ### :hammer_and_wrench: Lenguajes y herramientas :
 
