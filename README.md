@@ -30,7 +30,7 @@ I use data analysis and visualization to support business decision-making throug
 ---
 ## 📂 Featured Projects
 - 🎮 [Video Game Sales Analysis (Ice Store)](https://github.com/Daira0426/Anlisis-de-ventas-y-exito-de-videojuegos---Ice-Store)
-- 📊 [A/B Test for Online Store](https://github.com/Daira0426/Test-A-B-en-tienda-online)
+- 🆎 [A/B Test for Online Store](https://github.com/Daira0426/Test-A-B-en-tienda-online)
 - 🛒 [Marketing Optimization – Showz](https://github.com/Daira0426/Optimizacion-de-marketing-Showz)
 - 📊 [Data Jobs Dashboard](https://github.com/Daira0426/Power-BI-Dashboard)
 
