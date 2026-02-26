@@ -8,36 +8,23 @@
   <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1> 
 
-<div id="badges" align="center">
-<img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=daira0426.daira0426&color=00cf00" alt=""/>
----
- <div id="header" align="left">
-
-### :woman_technologist
-
 I use data analysis and visualization to support business decision-making through KPI tracking, dashboard development, and performance analysis. My work combines analytical thinking with business understanding across marketing and insurance environments. <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 * 💻 This portfolio showcases projects developed using Power BI, SQL, Python, and Excel, focused on data exploration, reporting, and actionable insights.
 
 * 📊 Areas of interest:
 
-Data Analytics & Business Intelligence
-
-Marketing & Performance Analytics
-
-Dashboard Development
-
-Data Quality & Reporting
+- Data Analytics & Business Intelligence
+- Marketing & Performance Analytics
+- Dashboard Development
+- Data Quality & Reporting
 
 * 🚀 Projects included:
 
-Interactive Power BI dashboards
-
-SQL-based data analysis
-
-Marketing performance analysis
-
-Business-focused analytics projects
+- Interactive Power BI dashboards
+- SQL-based data analysis
+- Marketing performance analysis
+- Business-focused analytics projects
 
 * 👉 Want to connect with me? [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daira-chala-castillo/) 
 
