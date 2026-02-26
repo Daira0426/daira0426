@@ -32,7 +32,7 @@ I use data analysis and visualization to support business decision-making throug
 - 🎮 [Video Game Sales Analysis (Ice Store)](https://github.com/Daira0426/Anlisis-de-ventas-y-exito-de-videojuegos---Ice-Store)
 - 📊 [A/B Test for Online Store](https://github.com/Daira0426/Test-A-B-en-tienda-online)
 - 🛒 [Marketing Optimization – Showz](https://github.com/Daira0426/Optimizacion-de-marketing-Showz)
-- 🎥 [YouTube Trends Dashboard](https://github.com/Daira0426/Videos-publicitarios-en-Sterling-Draper.)
+- 📊 Data Jobs Dashboard - (https://github.com/Daira0426/Power-BI-Dashboard)
 
 ### :hammer_and_wrench: Languages and Tools :
 
