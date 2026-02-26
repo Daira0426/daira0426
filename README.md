@@ -4,7 +4,7 @@
 
 
 ## <h1>
-  Hello, I'm Daira. Nice to meet you!
+  Hi, I’m Daira Chala — a Business & Marketing Data Analyst with a background in Industrial Engineering.
   <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1> 
 
@@ -13,15 +13,31 @@
 ---
  <div id="header" align="left">
 
-### :woman_technologist: 👩‍💻 About me: :
+### :woman_technologist: 👩‍💻
 
-Discovering the power of data analysis while building a career aligned with my interests and technical skills. <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I use data analysis and visualization to support business decision-making through KPI tracking, dashboard development, and performance analysis. My work combines analytical thinking with business understanding across marketing and insurance environments. <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-* 💻 I collaborate in digital marketing for a tennis academy 🎾
+* 💻 This portfolio showcases projects developed using Power BI, SQL, Python, and Excel, focused on data exploration, reporting, and actionable insights.
 
-* 🔄 Currently transitioning into data analytics, combining my background in engineering and marketing with tools like Python and Tableau to drive strategic decision-making.. 🚀📊
-  
-* 💡 I'm motivated by finding analytical solutions that optimize processes and save time.
+* 📊 Areas of interest:
+
+Data Analytics & Business Intelligence
+
+Marketing & Performance Analytics
+
+Dashboard Development
+
+Data Quality & Reporting
+
+* 🚀 Projects included:
+
+Interactive Power BI dashboards
+
+SQL-based data analysis
+
+Marketing performance analysis
+
+Business-focused analytics projects
 
 * 👉 Want to connect with me? [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daira-chala-castillo/) 
 
