@@ -13,7 +13,7 @@
 ---
  <div id="header" align="left">
 
-### :woman_technologist: 👩‍💻
+### :woman_technologist
 
 I use data analysis and visualization to support business decision-making through KPI tracking, dashboard development, and performance analysis. My work combines analytical thinking with business understanding across marketing and insurance environments. <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
